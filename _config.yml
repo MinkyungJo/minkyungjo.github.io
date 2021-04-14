@@ -2,8 +2,8 @@ title:              Mink Jo
 email:              minkicecream@gmail.com
 description:        Mink Jo website
 author:             Mink Jo
-baseurl:            ""
-url:                "https://minkyungjo.github.io"
+baseurl:            
+url:                https://minkyungjo.github.io
 
 # Social Profiles
 twitter_username:   SBootstrap
