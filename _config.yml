@@ -2,7 +2,7 @@ title:              Mink Jo
 email:              minkicecream@gmail.com
 description:        Mink Jo website
 author:             Mink Jo
-baseurl:            "https://minkyungjo.github.io"
+baseurl:            "/minkyungjo"
 url:                "https://minkyungjo.github.io"
 
 # Social Profiles
